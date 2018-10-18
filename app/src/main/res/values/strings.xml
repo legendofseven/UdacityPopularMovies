@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="title">TextView</string>
+    <string name="release_date">release_date</string>
+    <string name="overview">Overview</string>
+    <string name="poster_item">Poster</string>
+    <string name="order_popular">Most Popular</string>
+    <string name="order_highest">Highest Rated</string>
+    <string name="error_internet">Error: No internet connection</string>
+    <string name="plot">Plot</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="todo">TODO</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="vote_average">%1$s/10</string>
+    <string name="poster_thumb">Poster Thumb</string>
+    <string name="now_in_theaters">Now in Theaters</string>
+    <string name="movieTitle">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="poster_image">poster_image</string>
+    <string name="error_message">There was a problem.</string>
+</resources>
